@@ -80,10 +80,8 @@ O passo a passo completo, incluindo a geração das imagens Docker, está no
 
 | Integrante | Papel | GitHub |
 |---|---|---|
-| Bryan Anthony | Front-end e DevOps | [@Bryan-Anthony](https://github.com/Bryan-Anthony) |
-| Bryan Machado | Banco de Dados e Front-end | [@bmsis77](https://github.com/bmsis77) |
-| Daniela Carvalho | Back-end | [@dan1gomes](https://github.com/dan1gomes) |
-| Davi Domingues | Banco de Dados e DevOps | [@davi-domingues](https://github.com/davi-domingues) |
-| Maria Luiza Costa Goes | Back-end | [@MariaLuizaCostaGoes](https://github.com/MariaLuizaCostaGoes) |
-
-Também contribuiu: [@85ED](https://github.com/85ED).
+| Bryan Anthony | Front-end | [@Bryan-Anthony](https://github.com/Bryan-Anthony) |
+| Bryan Machado | Front-end e Infraestrutura/DevOps | [@bmsis77](https://github.com/bmsis77) |
+| Daniela Carvalho | Front-end e Back-end (agente Java) | [@dan1gomes](https://github.com/dan1gomes) |
+| Davi Domingues | Front-end, Back-end (API Node) e Banco de Dados | [@davi-domingues](https://github.com/davi-domingues) |
+| Maria Luiza Costa Goes | Front-end e Back-end (API Node) | [@MariaLuizaCostaGoes](https://github.com/MariaLuizaCostaGoes) |
